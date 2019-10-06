@@ -1,0 +1,35 @@
+
+
+        body {
+          background-color: grey;
+        }
+        h1{
+          text-decoration: underline;
+          text-decoration-color: black;
+          color: #66BFBF;
+          -webkit-text-stroke-width: 1px;
+          -webkit-text-stroke-color: navy;
+        }
+h2{
+  color: #66BFBF;
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: black;
+
+
+}
+h3{
+  color: #66BFBF;
+}
+        hr {
+          background-color: #0000;
+          border-style: none;
+          border-top-style: dotted;
+          border-color: black;
+          border-width: 10px;
+          height: 5px;
+          width: 40%;
+        }
+
+        img {
+          width: 150%;
+        }
